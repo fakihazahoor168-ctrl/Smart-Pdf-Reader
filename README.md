@@ -1,10 +1,11 @@
 ## Project Screenshots
 
-!(Screenshots/o1.PNG)
-!(Screenshots/o2.PNG)
-!(Screenshots/o3.PNG)
-!(Screenshots/o4.PNG)
-!(Screenshots/o5.PNG)
+![Screenshot 1](Screenshots/o1.PNG)
+![Screenshot 2](Screenshots/o2.PNG)
+![Screenshot 3](Screenshots/o3.PNG)
+![Screenshot 4](Screenshots/o4.PNG)
+![Screenshot 5](Screenshots/o5.PNG)
+
 # AI PDF Reader & Question Generator
 
 This project is an AI-based system that reads PDF files and generates summaries, questions, and MCQs using Transformer-based NLP models.
@@ -37,5 +38,3 @@ This project is an AI-based system that reads PDF files and generates summaries,
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
-
-
