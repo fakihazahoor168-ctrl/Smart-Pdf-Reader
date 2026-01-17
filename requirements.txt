@@ -1,0 +1,7 @@
+PyPDF2
+transformers
+torch
+sentencepiece
+nltk
+streamlit
+gtts
